@@ -4,7 +4,11 @@ target: swap the largest value to the top/ the right-est place,
 
 each time compare only 2 elements
 
+TIME: O(n) (if the array is nearly sorted, it is good to use bobble sort (opts one))
+
 check: https://visualgo.net/en/sorting?slide=1
+
+
 
 
 // UNOPTIMIZED VERSION OF BUBBLE SORT
